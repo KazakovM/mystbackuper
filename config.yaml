@@ -1,0 +1,17 @@
+---
+servers:
+  - "name": server_1
+    "ip": "1.1.1.1"
+    "username": "root"
+    "password": "password1"
+
+  - "name": server_2
+    "ip": "2.12.2.2"
+    "username": "root"
+    "password": "password2"
+
+  - "name": server_3
+    "ip": "3.3.3.3"
+    "username": "root"
+    "password": "password3"
+...
