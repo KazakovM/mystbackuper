@@ -12,10 +12,3 @@ Backup keystore folder from linux-based Mysterium nodes
 4. В текстовом редакторе открыть `config.yaml` и указать данные для подключения к серверам согласно шаблону.
 5. В терминале выполнить команду  `python backup.py`. 
 6. В корне репозитория будут созданы папки с названием сервера. Внутри содержатся файлы для восстановления ноды.
-
-## Протестированные VPS для запуска нод:
-* [cp.zomro.com](https://zomro.com/?from=296803)
-* [vultr.com](https://www.vultr.com/?ref=8883507)
-* [macloud.ru](https://macloud.ru/?partner=qby7f922cx) - по ссылке вечная скидка 10%
-* [firstbyte.ru](https://firstbyte.ru/?from=97279)
-
