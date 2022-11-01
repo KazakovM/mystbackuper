@@ -3,7 +3,7 @@ Backup keystore folder from linux-based Mysterium nodes
 
 Скрипт для бэкапа Mysterium нод, работающих на линукс серверах. Протестировано на ubuntu-20.04.
 Скрипт копирует содержимое папки keystore на локальный компьютер. 
-Подробнее про процесс миграции ноды в [документации](https://docs.mysterium.network/node-runners/node-migration/).
+Подробнее про процесс миграции ноды в [документации](https://docs.mysterium.network/for-node-runners/migrating-your-node).
 
 # Настройка и запуск:
 1. Установить Python (протестировано на 3.8) с [официального сайта](https://www.python.org/downloads/). При установке обязательно добавить python в PATH.
